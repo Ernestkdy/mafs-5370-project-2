@@ -47,23 +47,38 @@ pip install torch numpy gym tqdm
 
 ### Train the Agent
 
-Run the training script:
-
-```bash
-python train.py
-```
+Run the training block in proj2.ipynb:
 
 Training runs for 2000 episodes by default. The model checkpoints and training logs will be saved.
+
+```bash
+        O . O .        
+        . . . .        
+        . . . .        
+        . O . X        
+O . . . X . . . . . . .
+O . . . . . X X X X . .
+. X X . . O . . . . . .
+. . X X O O . X . . . .
+        . . . O        
+        . . . O        
+        . X . O        
+        O . . .        
+Episode 0, Total Reward: 1
+```
 
 ### Evaluate the Agent
 
 After training, evaluate the agent against a random player:
 
-```bash
-python evaluate.py
-```
-
 This will simulate 1000 games and print out the win/draw statistics.
+
+```bash
+🎉 结果汇总:
+🏆 DQN Wins: 862 (86.20%)
+🎲 Random Wins: 138 (13.80%)
+🤝 Draws: 0 (0.00%)
+```
 
 ---
 
