@@ -1,4 +1,6 @@
 # mafs-5370-project-2
+
+---
 ```markdown
 # Super Tic-Tac-Toe Reinforcement Learning Agent
 
