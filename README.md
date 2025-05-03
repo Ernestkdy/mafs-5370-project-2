@@ -22,11 +22,7 @@ This project implements:
 
 ## Repository Structure
 
-- `environment.py` — Implementation of the Super Tic-Tac-Toe Gym environment.
-- `dqn.py` — Definition of the DQN neural network model.
-- `train.py` — Training script for the DQN agent.
-- `evaluate.py` — Script to evaluate the trained agent against a random player.
-- `utils.py` — Helper functions such as board printing and action filtering.
+- `proj2.ipynb` — Implementation of the Super Tic-Tac-Toe Gym Step by Step. 
 - `README.md` — This file.
 
 ---
@@ -95,4 +91,3 @@ Inspired by the assignment requirements for Reinforcement Learning coursework on
 Feel free to open issues or submit pull requests for improvements or bug fixes!
 ```
   
-如果你需要，我可以幫你生成分文件的完整程式碼範例。
