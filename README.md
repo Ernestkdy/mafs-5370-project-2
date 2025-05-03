@@ -1,7 +1,6 @@
 # mafs-5370-project-2
 
 ---
-## markdown
 # Super Tic-Tac-Toe Reinforcement Learning Agent
 
 This repository contains the implementation of a Deep Q-Network (DQN) agent trained to play **Super Tic-Tac-Toe**, a variant of tic-tac-toe with a stochastic move mechanism on a cross-shaped 12x12 board.
