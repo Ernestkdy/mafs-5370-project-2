@@ -71,7 +71,7 @@ Episode 0, Total Reward: 1
 
 After training, evaluate the agent against a random player:
 
-This will simulate 1000 games and print out the win/draw statistics.
+This will simulate 10000 games and print out the win/draw statistics.
 
 ```bash
 🎉 结果汇总:
@@ -91,6 +91,16 @@ This will simulate 1000 games and print out the win/draw statistics.
 
 ---
 
+## Unique Trick
+- Using the restart strategy to improve the computation efficiency and generalization.
+
+---
+
+## Citation
+
+Gagliolo, M., & Schmidhuber, J. (2007). Learning Restart Strategies. In Proceedings of the 20th International Joint Conference on Artificial Intelligence (IJCAI'07), pp. 792–797.
+
+---
 ## License
 
 This project is released under the MIT License.
